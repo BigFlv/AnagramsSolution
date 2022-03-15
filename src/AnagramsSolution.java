@@ -46,7 +46,8 @@ public class AnagramsSolution {
 
         // rezolvati inca doua probleme
         
-        System.out.println("Sa ai o zi!");
+        ClasaLuMiron m=new ClasaLuMiron();
+        m.Afisare();
 
     }
 }
