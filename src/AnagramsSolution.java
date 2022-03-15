@@ -44,6 +44,8 @@ public class AnagramsSolution {
         System.out.println("test");
 
 
+        // rezolvati inca doua probleme
+
     }
 }
 
