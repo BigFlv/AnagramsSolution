@@ -7,7 +7,7 @@ public class ClasaLuMiron {
 	{
 		System.out.println("Afisati datele:");
 	}
-	
+	//////
 	ClasaLuMiron()
 	{
 		System.out.println("Constructor");
