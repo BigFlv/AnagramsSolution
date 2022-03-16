@@ -44,6 +44,8 @@ public class AnagramsSolution {
         System.out.println("test");
 
 
+        System.out.println("Commit - Opincariu Calin");
+        
         // rezolvati inca doua probleme
         
         ClasaLuMiron m=new ClasaLuMiron();
