@@ -6,6 +6,7 @@ public class ClasaLuMiron {
 	void Afisare()
 	{
 		System.out.println("Afisati datele:");
+		System.out.println(s);
 	}
 	//////
 	ClasaLuMiron()
