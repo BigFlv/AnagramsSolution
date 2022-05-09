@@ -64,12 +64,9 @@ public class AnagramsSolution {
         System.out.println( (ret) ? "Anagrams" : "Not Anagrams" );
         System.out.println("test");
 
-        System.out.println("Commit - Opincariu Calin");
-        
-        // rezolvati inca doua probleme
-        ClasaLuMiron m=new ClasaLuMiron();
-        m.Afisare();
-
+        AnagramsSolutionTest t = new AnagramsSolutionTest();
+        t.findD();
+        t.isAnagram();
     }
 }
 
