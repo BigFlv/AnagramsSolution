@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\BridgePattern\doc\.metadata\.plugins\org.eclipse.jdt.core
+4287567729.index
+1865797976.index
+2711876225.index
+1222453869.index

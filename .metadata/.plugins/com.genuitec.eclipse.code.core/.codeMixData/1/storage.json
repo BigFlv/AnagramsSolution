@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "bf31a5cf174828a94913574017698b5061d9018ee6d7f3b78f369a3c7183b56b",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "cbc1a79bbc2d5340deb08263c8c39e2d",
+                "configURIPath": "file:///d%3A/BridgePattern/doc/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}
