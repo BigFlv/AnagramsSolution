@@ -3,8 +3,17 @@ package actions;
 
 import objects.Furniture;
 
+/**
+ * Assemble class
+ * 
+ * @author EvEe
+ *
+ */
 public class Assemble implements Action {
 
+	/**
+	 * Method manufacture
+	 */
 	@Override
 	public void manufacture(Furniture furniture) {
 		
