@@ -4,7 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 import actions.Action;
-
+/**
+ * 
+ * @author EvEe
+ *
+ */
 public abstract class Furniture {
 	
 	private String colour;
@@ -19,16 +23,25 @@ public abstract class Furniture {
 		this.material = material;
 		
 	}
-
+/**
+ * returneaza culoarea ,get pentru a accesa membrii privati deoarece obiectul culoare este privat
+ * @return
+ */
 	public String getColour() {
 		return colour;
-		//returneaza culoarea ,get pentru a accesa membrii privati deoarece obiectul culoare este privat
+		
 	}
-
+/**
+ * returneaza dimensiune
+ * @return
+ */
 	public Dimension getDimension() {
 		return dimension;
 	}
-
+/**
+ * returneaza material
+ * @return
+ */
 	public String getMaterial() {
 		return material;
 	}
@@ -44,7 +57,9 @@ public abstract class Furniture {
 	public void addAssemblyLine(Action action) {
 		this.assemblyLines.add(action);
 	}
-	
+	/**
+	 * printare mesaje
+	 */
 	public void print() {
 		
 		this.dimension.print();

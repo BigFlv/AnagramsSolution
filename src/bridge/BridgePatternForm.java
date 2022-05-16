@@ -203,6 +203,10 @@ class BridgePatternForm extends JFrame implements ActionListener {
 			material.setSelectedIndex(0);
 		}
 	}
+	/**
+	 * 
+	 * @param furniture
+	 */
 	
 	private void manufacture(Furniture furniture) {
 		

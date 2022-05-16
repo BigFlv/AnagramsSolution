@@ -1,11 +1,18 @@
 package objects;
-
+/**
+ * super apeleaza constructorul din clasa de baza
+ * @author EvEe
+ *
+ */
 public class Chair extends Furniture {
 
 	public Chair(String colour, Dimension dimension, String material) {
-		super(colour, dimension, material);//super apeleaza constructorul din clasa de baza
+		super(colour, dimension, material);
 	}
-
+/**
+ * metoda manufacture
+ * printare mesaj 
+ */
 	@Override
 	public void manufacture() {
 		

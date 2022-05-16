@@ -2,9 +2,16 @@ package actions;
 
 
 import objects.Furniture;
-
+/**
+ * 
+ * @author EvEe
+ *
+ */
 public class Design implements Action {
-
+/**
+ * metoda manufacture
+ * printare mesaje incepere design proces ,terminare proces
+ */
 	@Override
 	public void manufacture(Furniture furniture) {
 		

@@ -2,7 +2,16 @@ package actions;
 
 import objects.Furniture;
 
+/**
+ * am creat interfata Action
+ * @author EvEe
+ *
+ */
 public interface Action {
-//am creat interfata Action
+/**
+ * metoda manufacture
+ * @param furniture
+ */
 	void manufacture(Furniture furniture);
+	
 }
